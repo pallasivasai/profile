@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallasivasai&label=Profile%20views&color=0e75b6&style=flat" alt="pallasivasai" /> </p>
 
-- 🔭 I’m currently working on **Google Cloud Platform**
+- 🔭 I’m currently working on **Google Cloud Platform(GCP)**
 
 - 🌱 I’m currently learning **Cloud, Development, HR skills**
 
 - 👯 I’m looking to collaborate on ** **
 
-- 💬 Ask me about ** Web Development ,Google Cloud Platform(GCP), **
+- 💬 Ask me about **Google Cloud Platform(GCP)**
 
 - 📫 How to reach me **psairabel143@gmail.com**
 
