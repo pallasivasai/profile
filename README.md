@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Google Cloud Platform(GCP)**
 
-- 🌱 I’m currently learning **Cloud, Development **
+- 🌱 I’m currently learning **Cloud, Development**
 
 - 👯 I’m looking to collaborate on ** **
 
