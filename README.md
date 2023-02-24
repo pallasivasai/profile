@@ -2,17 +2,17 @@
 <h3 align="center"> <!--  from Noida, India <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" --></h3> 
 
 <h1 align="center">Hi 👋, I'm P siva sai</h1>
-<h3 align="center">A passionate backend developer and frontend devloper</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallasivasai&label=Profile%20views&color=0e75b6&style=flat" alt="pallasivasai" /> </p>
 
 - 🔭 I’m currently working on **Google Cloud Platform(GCP)**
 
-- 🌱 I’m currently learning **Cloud, Development, HR skills**
+- 🌱 I’m currently learning **Cloud, Development **
 
 - 👯 I’m looking to collaborate on ** **
 
-- 💬 Ask me about **Google Cloud Platform(GCP)**
+- 💬 Ask me about **Google Cloud Platform(GCP), java**
 
 - 📫 How to reach me **psairabel143@gmail.com**
 
