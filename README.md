@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Cloud, Development**
 
-- 👯 I’m looking to collaborate on **Open source contribution **
+- 👯 I’m looking to collaborate on **Open source contribution**
 
 - 💬 Ask me about **Google Cloud Platform(GCP), java**
 
