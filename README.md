@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **psairabel143@gmail.com**
 
-- 📄 Know about my experiences **https://drive.google.com/drive/folders/10o1s87RiphtN1XYGb2hIHXgs2O4R1iAz **
+- 📄 Know about my experiences https://drive.google.com/drive/folders/10o1s87RiphtN1XYGb2hIHXgs2O4R1iAz
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
