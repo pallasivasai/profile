@@ -24,6 +24,8 @@
 <a href="https://www.facebook.com/psivasaihacker143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="p siva sai" height="30" width="40" /></a>
 <a href="https://instagram.com/p_siva_sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p siva sai" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/P_siva_sai//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/P_siva_sai/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/psivasai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/psivasai/" height="30" width="40" /></a>
+  
   
 <a href="https://www.hackerrank.com/psivasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="psivasai" height="30" width="40" /></a>
 </p>
