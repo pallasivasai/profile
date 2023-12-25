@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open source contribution**
 
-- 💬 Ask me about **Google Cloud Platform(GCP), java**
+- 💬 Ask me about **Google Cloud Platform(GCP), Coding concepts, Web development and Database Concepts**
 
 - 📫 How to reach me [**email**](mailto:psairabel143@gmail.com)
 
