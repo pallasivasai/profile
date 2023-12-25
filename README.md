@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **Google Cloud Platform(GCP), java**
 
-- 📫 How to reach me **psairabel143@gmail.com**
+- 📫 How to reach me [**email**](psairabel143@gmail.com)
 
-- 📄 Know about my experiences https://drive.google.com/drive/folders/10o1s87RiphtN1XYGb2hIHXgs2O4R1iAz
+- 📄 Know about my experiences [**Work Experience**](https://drive.google.com/drive/folders/10o1s87RiphtN1XYGb2hIHXgs2O4R1iAz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
